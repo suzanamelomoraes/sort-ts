@@ -1,16 +1,17 @@
 # Sort
 
-An application built with Typescript to sort arrays.
-
+An application built with Typescript to sort arrays of numbers, strings and linked lists.
 
 This application is part of the "Typescript: The Complete Developer's Guide" course to practice:
-- Interfaces 
+
+- Interfaces
 - Union and Type Guards
 - Design Patterns
 
 Please, feel free to contribute with comments, issues or pull requests.
 
 ### Technologies:
+
 - Typescript
 
 ### Applications / Helpers
