@@ -10,7 +10,7 @@ This application is part of the "Typescript: The Complete Developer's Guide" cou
 - Inheritance
 - Abstract Classes
 
-Please, feel free to contribute with comments, issues or pull requests.
+Please, feel free to contribute with comments, pointing issues or pull requests.
 
 ### Technologies:
 
