@@ -16,7 +16,7 @@ Please, feel free to contribute with comments or pull requests.
 
 - Typescript
 
-### Applications / Helpers
+### Applications / Helpers / Third libraries
 
 - Nodemon
 - Concurrently
